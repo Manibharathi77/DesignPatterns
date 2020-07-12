@@ -15,6 +15,6 @@ public class Cream extends AddOns {
 
     @Override
     String description() {
-        return (this.beverages.description() +"with "+ "Cream ");
+        return this.beverages.description() +"with Cream ";
     }
 }

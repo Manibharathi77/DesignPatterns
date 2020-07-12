@@ -10,6 +10,6 @@ public class ColdCoffee extends Beverages {
 
     @Override
     String description() {
-        return "Cold Cofee ";
+        return "Cold Coffee ";
     }
 }
